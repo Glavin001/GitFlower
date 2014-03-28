@@ -1,0 +1,22 @@
+{
+  "name": "GitFlower",
+  "version": "0.0.0",
+  "homepage": "https://github.com/SMU-CS-and-Math-Society/GitFlower",
+  "authors": [
+    "Glavin Wiechert <glavin.wiechert@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "CodeFlower": "SMU-CS-and-Math-Society/CodeFlower",
+    "bootstrap": "~3.1.1",
+    "d3": "~3.4.4"
+  }
+}
